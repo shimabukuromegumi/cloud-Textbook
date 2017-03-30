@@ -7,4 +7,4 @@
     - [概要](/overview.md)
     - [インスタンス建て方 how to use terraform](/terraform.md)
     - [カタログファイル書き方 how to write catalogfile](/catalogfile.md)
-    - [ツール使い方](/tool.md)
+    - [ツール使い方](https://github.com/DreamArtsOkinawa/dacloud-provisioner/blob/master/README.md)
